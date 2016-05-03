@@ -5011,7 +5011,7 @@ Source: www.kingbright.com</description>
 <part name="R4" library="resistor" deviceset="R-US_" device="M0805" value="1k"/>
 <part name="R5" library="resistor" deviceset="R-US_" device="M0805" value="1k"/>
 <part name="RASPBERRYPI_GPIO" library="parts" deviceset="MA06-1" device=""/>
-<part name="R1" library="resistor" deviceset="R-US_" device="M0805" value="1k"/>
+<part name="R1" library="resistor" deviceset="R-US_" device="M0805" value="100"/>
 <part name="LED1" library="led" deviceset="LED" device="CHIP-LED0805"/>
 </parts>
 <sheets>
